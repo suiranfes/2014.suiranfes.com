@@ -1,0 +1,5 @@
+
+AddType application/font-woff2 woff2
+
+RewriteEngine on
+RewriteRule ^index2.html$ https://2014.suiranfes.com [R=301,L] 
